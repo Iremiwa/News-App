@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    max-width: 800px;
+    text-align: center;
+    background-color: azure;
+    font-family: monospace;
+    padding: 10px;
+}
+#button{
+    margin: 20px;
+    
+}
+#searchImage {
+    max-height: 100%;
+}
