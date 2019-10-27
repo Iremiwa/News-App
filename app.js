@@ -24,7 +24,7 @@ xhr.onload= function() {
                       <h5 class="card-title">${newsSearch.webTitle}</h5>
                       <p class="card-text">Written By: ${newsSearch.fields.byline}</p>
                       <p class="card-text"><small class="text-muted">Last updated: ${newsSearch.fields.lastModified}</small></p>
-                      <a href="${newsSearch.webUrl}" class="btn btn-primary">Read More...</a>
+                      <a href="${newsSearch.webUrl}" class="btn btn-primary">Read More</a>
                     </div>
                   </div>
                 </div>
